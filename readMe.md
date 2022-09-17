@@ -1,0 +1,112 @@
+## Course Outline
+### Chapter 1 - Introduction to Computers, the Internet and World Wide Web
+  - 1.1 Introduction
+  - 1.2 What Is a Computer?
+  - 1.3 Computer Organization
+  - 1.4 Early Operating Systems
+  - 1.5 Personal, Distributed and Client/Server Computing
+  - 1.6 The Internet and the World Wide Web
+  - 1.7 Machine Languages, Assembly Languages and High-Level Languages
+  - 1.8 History of C and C++
+  - 1.9 C++ Standard Library
+  - 1.10 History of Java
+  - 1.11 FORTRAN, COBOL, Pascal and Ada
+  - 1.12 Basic, Visual Basic, Visual C++, C# and .NET
+  - 1.13 Key Software Trend: Object Technology
+  - 1.14 Typical C++ Development Environment
+  - 1.15 Notes About C++ and C++ How to Program, 5/e
+  - 1.16 Test-Driving a C++ Application
+  - 1.17 Software Engineering Case Study: Introduction to Object Technology and the UML (Required)
+  - 1.18 Wrap-Up
+  - 1.19 Web Resources
+### Chapter 2 - Introduction to C++ Programming
+  - 2.1 Introduction
+  - 2.2 First Program in C++: Printing a Line of Text
+  - 2.3 Modifying Our First C++ Program
+  - 2.4 Another C++ Program: Adding Integers
+  - 2.5 Memory Concepts
+  - 2.6 Arithmetic
+  - 2.7 Decision Making: Equality and Relational Operators
+  - 2.8 (Optional) Software Engineering Case Study: Examining the ATM Requirements Document
+  - 2.9 Wrap-Up
+### Chapter 3 - Introduction to Classes and Objects
+  - 3.1 Introduction
+  - 3.2 Classes, Objects, Member Functions and Data Members
+  - 3.3 Overview of the Chapter Examples
+  - 3.4 Defining a Class with a Member Function
+  - 3.5 Defining a Member Function with a Parameter
+  - 3.6 Data Members, set Functions and get Functions
+  - 3.7 Initializing Objects with Constructors
+  - 3.8 Placing a Class in a Separate File for Reusability
+  - 3.9 Separating Interface from Implementation
+  - 3.10 Validating Data with set Functions
+  - 3.11 (Optional) Software Engineering Case Study: Identifying the Classes in the ATM Requirements Document
+  - 3.12 Wrap-Up
+### Chapter 4 - Control Statements: Part 1
+  - 4.1 Introduction
+  - 4.2 Algorithms
+  - 4.3 Pseudocode
+  - 4.4 Control Structures
+  - 4.5 if Selection Statement
+  - 4.6 if...else Double-Selection Statement
+  - 4.7 while Repetition Statement
+  - 4.8 Formulating Algorithms: Counter-Controlled Repetition
+  - 4.9 Formulating Algorithms: Sentinel-Controlled Repetition
+  - 4.10 Formulating Algorithms: Nested Control Statements
+  - 4.11 Assignment Operators
+  - 4.12 Increment and Decrement Operators
+  - 4.13 (Optional) Software Engineering Case Study: Identifying Class Attributes in the ATM System
+  - 4.14 Wrap-Up 
+### Chapter 5 - Control Statements: Part 2
+  - 5.1 Introduction
+  - 5.2 Essentials of Counter-Controlled Repetition
+  - 5.3 for Repetition Statement
+  - 5.3 for Repetition Statement (Cont.)
+  - 5.4 Examples Using the for Statement
+  - 5.4 Examples Using the for Statement (Cont.)
+  - 5.5 do…while Repetition Statement
+  - 5.6 switch Multiple-Selection Statement
+  - 5.7 break and continue Statements
+  - 5.8 Logical Operators
+  - 5.9 Confusing Equality (==) and Assignment (=) Operators
+  - 5.10 Structured Programming Summary
+### Chapter 6 - Functions and an Introduction to Recursion
+  - 6.13 Inline Functions
+  - 6.14 References and Reference Parameters
+  - 6.15 Default Arguments
+  - 6.16 Unary Scope Resolution Operator
+  - 6.17 Function Overloading
+  - 6.18 Function Templates
+  - 6.19 Recursion
+  - 6.20 Example Using Recursion: Fibonacci Series
+  - 6.21 Recursion vs. Iteration
+  - 6.22 (Optional) Software Engineering Case Study: Identifying Class Operations in the ATM System
+  - 6.23 Wrap-Up
+### Chapter 7 - Arrays and Vectors
+  - 7.1 Introduction
+  - 7.2 Arrays
+  - 7.4 Examples Using Arrays
+  - 7.5 Passing Arrays to Functions
+  - 7.6 Case Study: Class GradeBook Using an Array to Store Grades
+  - 7.7 Searching Arrays with Linear Search
+  - 7.8 Sorting Arrays with Insertion Sort
+  - 7.8 Sorting Arrays with Insertion Sort
+  - 7.9 Multidimensional Array
+  - 7.10 Case Study: Class GradeBook Using a Two-Dimensional Array
+### Chapter 8 - Pointers and Pointer-Based Strings
+  - 8.1 Introduction
+  - 8.2 Pointer Variable Declarations and Initialization
+  - 8.3 Pointer Operators
+  - 8.4 Passing Arguments to Functions by Reference with Pointers
+  - 8.5 Using const with Pointers
+  - 8.6 Selection Sort Using Pass-by-Reference
+  - 8.7 sizeof Operators
+  - 8.7 Pointer Expressions and Pointer Arithmetic
+  - 8.9 Relationship Between Pointers and Arrays
+  - 8.10 Arrays of Pointers
+  - 8.11 Case Study: Card Shuffling and Dealing Simulation
+  - 8.12 Function Pointers
+  - 8.13 Introduction to Pointer-Based String Processing
+    - 8.13.1 Fundamentals of Characters and Pointer-Based Strings
+    - 8.13.2 String Manipulation Functions of the String-Handling Library
+  - 8.14 Wrap-Up
